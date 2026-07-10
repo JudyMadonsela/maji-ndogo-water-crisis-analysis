@@ -37,6 +37,8 @@ daily for water. The government needs data to:
 │     └── 📁 screenshots/
 ├── 📁 data/
 │     └── infrastructure_costs.xlsx
+├── 📁 data_model/
+│     └── data_model.png
 └── 📄 README.md
 
 ## SQL Script Structure
