@@ -37,7 +37,16 @@ daily for water. The government needs data to:
 │     └── 📁 screenshots/
 ├── 📁 data/
 │     └── infrastructure_costs.xlsx
+├── 📁 data_model/
+│     └── data_model.png
 └── 📄 README.md
+
+## Data Model
+Star schema generated from MySQL database schema. 
+visits table as central fact table with dimension tables 
+for location, water sources and employees.
+
+![Data Model](data-model/data_model.png)
 
 ## SQL Script Structure
 The SQL script (669 lines) is structured as 6
