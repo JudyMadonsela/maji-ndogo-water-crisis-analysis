@@ -24,7 +24,7 @@ daily for water. The government needs data to:
 ## Tools & Skills
 | Tool | Application |
 |---|---|
-| MySQL | Data cleaning, EDA, analysis, normalisation |
+| MySQL | Data cleaning, Data modelling, EDA, analysis |
 | Power BI (DAX) | Interactive dashboards, measures, KPI tracking |
 | Power Query | Data transformation and loading |
 | GitHub | Version control and portfolio documentation |
@@ -74,6 +74,11 @@ and findings summaries throughout:
 7. At 21% project completion, basic water access 
    improved from 33.55% to 47.72% - 
    a 14.17 percentage point increase
+8. Rural locations and high-cost interventions (drilling wells, 
+   public taps) are primary cost drivers. Projects exceeding 
+   21 days average $17.39K, which is 2.8x the overall average 
+   of $6.16K. Efficient project execution is key to reducing 
+   the 10.69% budget overrun.
 
 ## Dashboard
 **Report 1 - National Survey Results**
@@ -107,4 +112,4 @@ analysis skills - from raw data through to
 decision-ready government dashboards - applied to 
 a real-world water access crisis.
 
-📧 madonsela.judys@gmail.com | 💼 https://www.linkedin.com/in/judy-madonsela/ | 🐙 https://github.com/JudyMadonsela
+📧 madonsela.judys@gmail.com | 💼 https://www.linkedin.com/in/judy-madonsela/ | 🐙 https://www.datascienceportfol.io/judithsmadonsela
