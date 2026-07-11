@@ -24,7 +24,7 @@ daily for water. The government needs data to:
 ## Tools & Skills
 | Tool | Application |
 |---|---|
-| MySQL | Data cleaning, EDA, analysis, normalisation |
+| MySQL | Data cleaning, Data modelling, EDA, analysis |
 | Power BI (DAX) | Interactive dashboards, measures, KPI tracking |
 | Power Query | Data transformation and loading |
 | GitHub | Version control and portfolio documentation |
