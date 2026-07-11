@@ -107,4 +107,4 @@ analysis skills - from raw data through to
 decision-ready government dashboards - applied to 
 a real-world water access crisis.
 
-📧 madonsela.judys@gmail.com | 💼 https://www.linkedin.com/in/judy-madonsela/ | 🐙 https://github.com/JudyMadonsela
+📧 madonsela.judys@gmail.com | 💼 https://www.linkedin.com/in/judy-madonsela/ | 🐙 https://www.datascienceportfol.io/judithsmadonsela
