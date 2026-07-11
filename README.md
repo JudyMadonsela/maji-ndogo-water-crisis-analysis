@@ -74,6 +74,11 @@ and findings summaries throughout:
 7. At 21% project completion, basic water access 
    improved from 33.55% to 47.72% - 
    a 14.17 percentage point increase
+8. Rural locations and high-cost interventions (drilling wells, 
+   public taps) are primary cost drivers. Projects exceeding 
+   21 days average $17.39K, which is 2.8x the overall average 
+   of $6.16K. Efficient project execution is key to reducing 
+   the 10.69% budget overrun.
 
 ## Dashboard
 **Report 1 - National Survey Results**
